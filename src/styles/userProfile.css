@@ -1,0 +1,9 @@
+.form-profile input {
+    padding: 10px;
+    border: 1px solid gainsboro;
+    width: 100%
+}
+
+.btn-submit{
+    margin-top: 10px;
+}

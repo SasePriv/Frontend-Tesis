@@ -1,0 +1,49 @@
+.card h2{
+    margin: 0;
+    padding: 15px 15px 0;
+}
+
+.card p{
+    margin: 0;
+    padding: 0px 15px 15px;  
+    font-size: 14px;
+    font-weight: 400;
+    color: #9A9A9A;  
+}
+
+.cardVitrina h4{
+    margin: 0;
+    padding: 15px 15px 0;    
+}
+
+.valores {
+    margin: 0;
+    padding: 0px 15px 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.textCard{
+    padding-bottom: 0px !important;
+}
+
+.cardVitrina{
+    text-align: center;
+}
+
+.inline{    
+    width: 80%;
+    justify-content: center;    
+    border: 0;
+    border-top: 1px solid #DDDDDD;
+}
+
+.btn-vitrinas{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+
+.colorH3{
+    color: #3472F7;
+}

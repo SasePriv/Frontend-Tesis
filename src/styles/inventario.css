@@ -1,0 +1,76 @@
+.addBtn{
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 23px;
+}
+.subtitleModal{
+    margin-top: 0px;
+    padding: 0px;
+    color: #9A9A9A;
+    font-size: 14px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #3472F7;    
+}
+
+.formModal label{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.customInput{
+    padding: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    border: 2px solid #3472F7;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom-left-radius: 10px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.modal-dialog{
+    width: 500px
+}
+
+.subtitlePeso{
+    color: #9A9A9A;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.peso{
+    text-align: center;
+}
+
+.peso h3{
+    font-size: 40px;
+    color: #3472F7;
+    margin-top: 5px;
+}
+
+.waitTime{
+    color: #3472F7;
+    font-size: 20px;
+}
+
+.loading{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mensaje-error{
+    text-align: center;
+    margin: 10px;
+    color: red;
+}
+
+.ninguna{
+    padding: 20px;
+}
+
+.huella{
+    text-align: center;
+    padding: 10px;
+}
